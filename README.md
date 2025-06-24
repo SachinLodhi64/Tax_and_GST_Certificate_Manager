@@ -8,7 +8,7 @@ Name:
 Password: 
 
 On successful login, user is taken to the main menu.
-<img src="https://github.com/SachinLodhi64/[Screenshot 2025-06-24 174157](https://github.com/user-attachments/assets/c1f6e2b9-3341-4160-926f-cb43b334eb00) width="800" height= "500">
+<img src= https://github.com/SachinLodhi64/Tax_and_GST_Certificate_Manager/blob/main/Screenshot%202025-06-24%20174157.png width="800" height= "500">
 
 ✅ **2. Main Menu Options**
 Users can choose from four options:
