@@ -1,3 +1,5 @@
+**Tax_and_GST_Certificate_Data_Manager**
+
 **This code defines a desktop GUI application using Python's tkinter library for managing and organizing Income Tax Return (ITR) and Goods and Services Tax (GST) details along with uploading and downloading related documents. It offers a simple digital document management and data entry solution for small tax consultancy businesses or individuals managing client tax records.**
 
 **Problem:** Requirement of forms where the user can enter the data relevant to Tax filing i.e. Clients' details, its' ITR and Computation according to that assessment year. Along a form is required to enter the details of GST clients and their active certificates. The files which are uploaded should be store at common place in excel files, so that in future as per requirement the user can download or print the files. (Note: The forms should not be made separately)
