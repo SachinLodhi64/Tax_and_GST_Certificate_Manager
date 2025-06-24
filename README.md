@@ -8,6 +8,7 @@ Name:
 Password: 
 
 On successful login, user is taken to the main menu.
+<img src="https://github.com/SachinLodhi64/[Screenshot 2025-06-24 174157](https://github.com/user-attachments/assets/c1f6e2b9-3341-4160-926f-cb43b334eb00) width="800" height= "500">
 
 ✅ **2. Main Menu Options**
 Users can choose from four options:
@@ -57,6 +58,7 @@ Downloaded via asksaveasfilename
 Printed using system's print command (os.startfile(path, "print"))
 
 **🎯 Problem It Solves**
+
 This application helps in:
 
 🗃️ Digitally organizing client tax records in a structured Excel format.
